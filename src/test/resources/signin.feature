@@ -19,8 +19,9 @@ Feature: Signin verification
       | Emailid          | Password |
       | test1@yahoo.com  | Testing1 |
       | reg123@yahoo.com | Testing1 |
-    When I click on Signin button on Loginpage
-#    And I should see My account button on the right hand side
+ When I click on Signin button on Loginpage
+#    working  kalyani on Github
+
 #    And I should see the Logout on the right hand side
 
 
